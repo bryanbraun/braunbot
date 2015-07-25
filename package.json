@@ -1,0 +1,14 @@
+{
+  "name": "BraunBot",
+  "version": "0.0.1",
+  "description": "A teenage mutant ninja robot, powered by NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Braun",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.8.85"
+  }
+}
