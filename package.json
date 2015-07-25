@@ -1,7 +1,7 @@
 {
   "name": "BraunBot",
   "version": "0.0.1",
-  "description": "A teenage mutant ninja robot, powered by NodeJS.",
+  "description": "A lean, mean, Arduino-powered robot fighting machine.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
