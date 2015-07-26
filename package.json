@@ -9,6 +9,7 @@
   "author": "Bryan Braun",
   "license": "MIT",
   "dependencies": {
-    "johnny-five": "^0.8.85"
+    "johnny-five": "^0.8.85",
+    "keypress": "^0.2.1"
   }
 }
